@@ -16,5 +16,5 @@ int main () {
    val=val/2;
    printf("String value = %s, Float value = %f\n", str, val);
 
-   return(0);
+  
 }
